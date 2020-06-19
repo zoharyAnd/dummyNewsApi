@@ -1,0 +1,36 @@
+{
+   "news" : [
+    {
+      "title": "News title 1",
+      "date": "19-06-2020",
+      "time_published": "15:00",
+      "body" : "Lorem impsum Lorem impsum Lorem impsum lorem impsum Lorem impsum  lorem impsum Lorem impsum lorem impsum Lorem impsum lorem impsum Lorem impsum",
+      "image" : "https://material-ui.com/static/images/avatar/2.jpg",
+      "linkTo" : ""
+    },
+    {
+      "title": "News title 2",
+      "date": "19-06-2020",
+      "time_published": "16:00",
+      "body" : "Lorem impsum Lorem impsum Lorem impsum lorem impsum Lorem impsum  lorem impsum Lorem impsum lorem impsum Lorem impsum lorem impsum Lorem impsum",
+      "image" : "https://material-ui.com/static/images/avatar/2.jpg",
+      "linkTo" : ""
+    },
+    {
+      "title": "News title 3",
+      "date": "19-06-2020",
+      "time_published": "17:00",
+      "body" : "Lorem impsum Lorem impsum Lorem impsum lorem impsum Lorem impsum  lorem impsum Lorem impsum lorem impsum Lorem impsum lorem impsum Lorem impsum",
+      "image" : "https://material-ui.com/static/images/avatar/2.jpg",
+      "linkTo" : ""
+    },
+    {
+      "title": "News title 4",
+      "date": "19-06-2020",
+      "time_published": "18:00",
+      "body" : "Lorem impsum Lorem impsum Lorem impsum lorem impsum Lorem impsum  lorem impsum Lorem impsum lorem impsum Lorem impsum lorem impsum Lorem impsum",
+      "image" : "https://material-ui.com/static/images/avatar/2.jpg",
+      "linkTo" : ""
+    }
+  ]
+}
